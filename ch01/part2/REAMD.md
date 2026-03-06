@@ -7,5 +7,8 @@ A2. Visual Studio 는 ms에서 개발하고 C 계열 개발에 많이 쓴다. Ec
 Q3. IDE에 포함된 기능은 무엇인가?  
 A3. 코드 편집, 컴파일러, 디버거, 빌드 등등의 기능을 포함하고 있다.
 
-실행 결과
+실행 결과  
 <img width="926" height="65" alt="image" src="https://github.com/user-attachments/assets/d30f3dfc-358c-45b8-baa7-40e6dbe211b3" />
+
+파일탐색기 경로  
+<img width="665" height="183" alt="image" src="https://github.com/user-attachments/assets/6433fe05-0220-43f4-b221-41b54558d8de" />
