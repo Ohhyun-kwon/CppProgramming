@@ -14,3 +14,10 @@ A3. extern 선언은 변수의 실제 정의가 다른 파일에 존재한다는
 
 ## 라이브러리 함수나 객체를 사용하기 전에 헤더파일을 include하는 이유를 설명하라.
 A4. 컴파일러는 프로그램을 번역할 때 함수의 이름, 반환형, 매개변수의 형태 등을 알아야 올바르게 코드를 해석할 수 있기에 헤더파일을 통해 컴파일러에 정보를 알려주기 위함이다.
+
+
+<img width="226" height="34" alt="image" src="https://github.com/user-attachments/assets/83fe8c47-cea4-4ed1-96e8-eafad140c4e1" />
+<img width="306" height="104" alt="image" src="https://github.com/user-attachments/assets/58b49c81-add4-45a6-96dc-c68ae3fd500e" />
+<img width="383" height="37" alt="image" src="https://github.com/user-attachments/assets/d562e8e0-5f50-4025-a3e3-d2206f6cacf3" />
+<img width="254" height="36" alt="image" src="https://github.com/user-attachments/assets/1f611b01-1477-4e0e-ab0b-778e7e24d079" />
+<img width="408" height="134" alt="image" src="https://github.com/user-attachments/assets/afd9d34f-6513-4093-9762-b1f7addbf435" />
