@@ -11,7 +11,7 @@ A3. 코드 편집, 컴파일러, 디버거, 빌드 등등의 기능을 포함하
 <br>
 
 # 실행 결과  
-
-<br>
-
-# 파일탐색기 경로  
+<img width="222" height="87" alt="image" src="https://github.com/user-attachments/assets/b7e5f612-fc91-4531-9735-7532e4b78ded" />
+<img width="184" height="74" alt="image" src="https://github.com/user-attachments/assets/81d343a6-7c7d-45d1-8ec1-69392dab8bdc" />
+<img width="86" height="153" alt="image" src="https://github.com/user-attachments/assets/6b74f298-a4e5-4cb7-8128-e54913ac2716" />
+<img width="50" height="85" alt="image" src="https://github.com/user-attachments/assets/5eab28f3-a305-4b49-b23f-027ae15b27f0" />
