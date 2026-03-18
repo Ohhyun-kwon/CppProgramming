@@ -15,3 +15,6 @@ A4. 임시 객체를 생성했다가 바로 소멸한다.
 <br>
 
 # 실행 결과  
+<img width="296" height="83" alt="image" src="https://github.com/user-attachments/assets/e29941b8-ca62-43f0-a9e3-2defe789459f" />
+<img width="290" height="78" alt="image" src="https://github.com/user-attachments/assets/5a6a9dfc-5560-49e1-b339-0e8645f273cd" />
+<img width="440" height="104" alt="image" src="https://github.com/user-attachments/assets/f8ce9d7e-6547-4c71-aecc-17836f1a93bc" />
