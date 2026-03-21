@@ -8,8 +8,8 @@
 
 using namespace std;
 class Triangle {
-    double width, height;
 public:
+    double width, height;
     Triangle();
     Triangle(double width, double height);
     double getArea();
