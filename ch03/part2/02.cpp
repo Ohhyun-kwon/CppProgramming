@@ -9,8 +9,8 @@
 using namespace std;
 
 class Sphere {
-    double radius;
 public:
+    double radius;
     Sphere();
     Sphere(double radius);
     double getVolume();
