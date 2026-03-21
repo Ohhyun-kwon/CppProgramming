@@ -7,7 +7,6 @@
 #include <iostream>
 
 using namespace std;
-
 class Sphere {
 public:
     double radius;
