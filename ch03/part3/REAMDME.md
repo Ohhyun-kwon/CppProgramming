@@ -22,3 +22,6 @@ A4. 전역변수 또는 전역객체가 역순으로 소멸된다.
 <br>
 
 # 실행 결과 
+<img width="395" height="187" alt="image" src="https://github.com/user-attachments/assets/8325b27e-eb62-488a-8b49-16928a02d181" />
+
+
