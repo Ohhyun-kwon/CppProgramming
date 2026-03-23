@@ -7,7 +7,6 @@
 #include <iostream>
 
 using namespace std;
-
 class Triangle {
 public:
     int width, height;
