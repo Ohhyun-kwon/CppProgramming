@@ -23,4 +23,5 @@ A4. 3번과 동일한 방식이지만 *연산자를 통해 값을 출력할 수 
 # 실행 결과  
 <img width="327" height="103" alt="image" src="https://github.com/user-attachments/assets/d60e05ea-dfc0-41e1-9571-44e8ff4c07b9" />
 <img width="284" height="93" alt="image" src="https://github.com/user-attachments/assets/468dbbb8-5847-4df2-87d0-2fbb1688b4f1" />
+<img width="334" height="268" alt="image" src="https://github.com/user-attachments/assets/bb10746a-6926-4a45-a223-d73b28b7cebd" />
 <img width="338" height="525" alt="image" src="https://github.com/user-attachments/assets/fa3a8349-5fdd-47ad-9c66-e876137f714e" />
