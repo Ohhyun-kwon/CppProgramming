@@ -67,4 +67,5 @@ int main() {
     front = pipe.arrive(50);
     cout << "arrive(50)로 제거된 맨 앞 데이터 : " << front << endl;
     pipe.show();
+    return 0;
 } 
