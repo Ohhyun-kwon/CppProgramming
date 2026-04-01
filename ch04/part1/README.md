@@ -21,3 +21,4 @@ A4. 3번과 동일한 방식이지만 *연산자를 통해 값을 출력할 수 
 <br>
 
 # 실행 결과  
+<img width="327" height="103" alt="image" src="https://github.com/user-attachments/assets/d60e05ea-dfc0-41e1-9571-44e8ff4c07b9" />
