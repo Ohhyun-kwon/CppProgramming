@@ -13,7 +13,9 @@ A3. 포인터 변수에 배열의 첫번째 원소의 주소를 저장하면 자
 
 
 ## Q4. 포인터를 이용하여 배열 각 원소의 값을 구하는 방법을 설명하라.
-A4. 
+A4. 3번과 동일한 방식이지만 *연산자를 통해 값을 출력할 수 있음.
+<img width="648" height="844" alt="image" src="https://github.com/user-attachments/assets/db9abd45-61df-4fdb-bf46-618cd9a54c26" />
+<img width="144" height="65" alt="image" src="https://github.com/user-attachments/assets/599cf18e-4c5b-4941-8032-01a6a0251666" />
 
 <br>
 <br>
