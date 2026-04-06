@@ -1,3 +1,7 @@
+## 다음 빈칸을 채우시오. 정적(static)변수는 인터넷을 검색하여 조사해볼 것. <br>
+<img width="1303" height="312" alt="image" src="https://github.com/user-attachments/assets/b9e3d11c-012d-4e9a-b67e-6fbfb909ef2d" />
+
+
 ## Q1. 매크로상수 NULL이 무엇인지 조사하라, C/C++언어에서 정의의 차이, 정의된 헤더파일, 사용용도 등.
 A1. NULL은 어떤 객체도 가리키지 않는 포인터 값을 표현하려고 쓰는 이름. 포인터가 아무 것도 가리키지 않음을 표시하거나 유효한 대상 없음을 경우 반환값으로 쓰임. C: <stddef.h> C++: <cstddef>
 
