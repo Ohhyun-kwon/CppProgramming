@@ -1,24 +1,17 @@
-## Q1. 배열명의 의미를 설명하라.
-A1. 배열명은 배열의 시작 주소를 의미한다.
+## Q1. 
+A1. 
 
-## Q2. 객체 포인터의 의미를 설명하라.
-A2. 객체 포인터는 객체의 주소를 저장하는 포인터 변수. 단, 객체는 아님.
+## Q2. 
+A2. 
 
-## Q3. 포인터를 이용하여 배열 각 원소의 주소를 구하는 방법을 설명하라.
-A3. 포인터 변수에 배열의 첫번째 원소의 주소를 저장하면 자료형의 크기에 따라 연속적으로 저장되는 배열의 특성상 +연산을 통해 각 원소에 접근할 수 있다.
-이때 포인터 연산은 자료형의 크기만큼 자동으로 증가하므로, 배열의 각 원소에 순차적으로 접근할 수 있다. <br>
-<img width="364" height="465" alt="image" src="https://github.com/user-attachments/assets/9ede0323-9dc3-4e4d-bc97-c78db5cc0ca5" />
-<img width="1188" height="62" alt="image" src="https://github.com/user-attachments/assets/34f8f3c4-7453-4840-a68d-0d4685e50072" />
+## Q3. 
+A3. 
 
-
-
-## Q4. 포인터를 이용하여 배열 각 원소의 값을 구하는 방법을 설명하라.
-A4. 3번과 동일한 방식이지만 *연산자를 통해 값을 출력할 수 있음. <br>
-<img width="364" height="465" alt="image" src="https://github.com/user-attachments/assets/db9abd45-61df-4fdb-bf46-618cd9a54c26" />
-<img width="144" height="65" alt="image" src="https://github.com/user-attachments/assets/599cf18e-4c5b-4941-8032-01a6a0251666" />
 
 <br>
 <br>
 
 # 실행 결과  
 <img width="508" height="265" alt="image" src="https://github.com/user-attachments/assets/23ecb319-55c4-4063-a90a-b640ae2c7b78" />
+<img width="506" height="232" alt="image" src="https://github.com/user-attachments/assets/185d373d-7078-4a3e-9891-ff21d692c607" />
+<img width="538" height="110" alt="image" src="https://github.com/user-attachments/assets/a12d07d7-7609-45ff-80e5-0df0383fca88" />
