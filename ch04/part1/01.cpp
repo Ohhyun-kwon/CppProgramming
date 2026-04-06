@@ -22,8 +22,8 @@ public:
 int main(void) {
 	Triangle tri;
 	Triangle* ptr = &tri;
-	tri.setWidth(3);
-	tri.setHeight(5);
+	ptr->setWidth(3);
+	ptr->setHeight(5);
 	cout << "삼각형의 면적은 " << ptr->getArea() << endl;
 	return 0;
 }
