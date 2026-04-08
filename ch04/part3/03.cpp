@@ -1,4 +1,11 @@
+// **********************************************
+// 제 목 : 문제3
+// 날 짜 : 2026년 4월8일
+// 작성자 : 2500008 권오현
+// **********************************************
+
 #include <iostream>
+
 using namespace std;
 class Triangle {
 private:
@@ -9,7 +16,6 @@ public:
 	~Triangle() { cout << "밑변" << width << ",높이" << height << "인 삼각형 소멸" << endl; }
 	double getArea() { return 0.5 * width * height; }
 };
-
 
 int main() {
 
