@@ -18,14 +18,10 @@ public:
 };
 
 int main() {
-
 	Triangle* pArray = new Triangle[3]{ Triangle(), Triangle(2,2), Triangle(4,4) };
-
 	for (int i = 0; i < 3; i++) {
 		cout << "삼각형의 면적은 " << pArray[i].getArea() << endl;
 	}
 	delete[] pArray;
-
-
 	return 0;
 }
