@@ -17,3 +17,4 @@ A4. 동적 메모리를 자동으로 관리하기 위한 클래스. #include <me
 # 실행 결과  
 <img width="449" height="159" alt="image" src="https://github.com/user-attachments/assets/9f6ee45e-e356-402e-84ee-1fd3220560b7" />
 <img width="325" height="278" alt="image" src="https://github.com/user-attachments/assets/a0c1623a-e9e0-4d1f-98cf-8b8138000244" />
+<img width="352" height="272" alt="image" src="https://github.com/user-attachments/assets/1ed8ff8b-1cdd-4b59-ad83-f8d6fac16737" />
