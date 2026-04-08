@@ -15,3 +15,4 @@ A4. 동적 메모리를 자동으로 관리하기 위한 클래스. #include <me
 <br>
 
 # 실행 결과  
+<img width="449" height="159" alt="image" src="https://github.com/user-attachments/assets/9f6ee45e-e356-402e-84ee-1fd3220560b7" />
